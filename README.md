@@ -34,7 +34,8 @@ export default {
 ```
 
 然后就可以使用
-
+# prettier:
+https://github.com/tailwindlabs/prettier-plugin-tailwindcss
 # 问题：vscode @tailwind 报错 unknow rules:
 
 安装 postCSS 插件
